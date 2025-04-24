@@ -1,3 +1,5 @@
+//Programa que calcula o salário de um funcionário com base nas horas trabalhadas, e no valor por horas trabalhadas
+
 package bob_mimi;
 
 import java.util.Scanner;
