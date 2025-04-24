@@ -1,3 +1,5 @@
+//Programa que calcula o quanto de impostos um usuário pagará de acordo com o salário informado
+
 package bob_mimi;
 
 import java.util.Locale;
