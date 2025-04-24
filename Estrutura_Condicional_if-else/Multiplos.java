@@ -1,3 +1,5 @@
+//Programa capaz de distinguir se um número inteiro é ou não, múltiplo de outro
+
 package bob_mimi;
 
 import java.util.Scanner;
