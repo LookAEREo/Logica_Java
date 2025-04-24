@@ -1,3 +1,5 @@
+//Programa que calcula a área de um circulo, triângulo, quadrado, trapézio e retângulo com base em 3 valores com ponto flutuante 
+
 package bob_mimi;
 
 import java.util.Locale;
