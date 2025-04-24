@@ -1,3 +1,5 @@
+//Programa que exibe: "Bom dia", "Boa tarde" ou "Boa noite", com base no horário informado pelo usuário
+
 package bob_mimi;
 
 import java.util.Scanner;
