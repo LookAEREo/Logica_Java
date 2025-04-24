@@ -1,3 +1,5 @@
+// Programa que lê dois valores com casas decimais, e exibe as coordenadas (Q1, Q2, Q3, Q4)
+
 package bob_mimi;
 
 import java.util.Locale;
