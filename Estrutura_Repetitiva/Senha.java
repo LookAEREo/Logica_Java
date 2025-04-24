@@ -1,3 +1,5 @@
+//Mini sistema de senha (com uma senha fixa)
+
 package reforco_logica;
 
 import java.util.Scanner;
