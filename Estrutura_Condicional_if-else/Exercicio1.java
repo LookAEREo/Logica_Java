@@ -1,4 +1,4 @@
-// Programa que lê dois valores com casas decimais, e exibe as coordenadas (Q1, Q2, Q3, Q4)
+// Programa que lê dois números com casas decimais e exibe a localização nas coordenadas (Q1, Q2, Q3, Q4 ou origem)
 
 package bob_mimi;
 
