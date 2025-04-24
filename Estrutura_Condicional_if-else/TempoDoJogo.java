@@ -1,3 +1,5 @@
+//Programa capaz de calcular a duração de um evento com base em seu horario de inicio e termino 
+
 package bob_mimi;
 
 import java.util.Scanner;
