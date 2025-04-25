@@ -1,3 +1,5 @@
+//Programa que lê a nota de um aluno e exibe um conceito + comentário (dessa vez com ajuda do switch) 
+
 package reforco_logica;
 
 import java.util.Scanner;
