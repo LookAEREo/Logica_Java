@@ -1,3 +1,7 @@
+// Programa de adivinhação:
+// O usuário deve digitar um número entre 1 e 10.
+// O número correto é 7.
+
 package reforco_logica;
 
 import java.util.Scanner;
