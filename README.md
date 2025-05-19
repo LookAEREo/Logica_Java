@@ -10,7 +10,8 @@ Como um iniciante, deixarei nesse repositório todos os exercícios práticos qu
 - [x] **Estrutura condicional**: `if`, `else`, `else if`
 - [x] **Operadores de atribuição cumulativa**: `+=`, `-=`, `*=`, `/=`, `%=`
 - [x] **Estrutura de seleção múltipla**: `switch`
-- [x] **Estrutura repetitiva**: `while`
+- [x] **Estrutura repetitiva**: `while` `for` `do-while`
+- [x] **POO**: `Classes e atributos`
 
 - ## 🚀 Objetivo
 Documentar meu progresso e compartilhar meus aprendizados enquanto me preparo para ingressar no mercado de tecnologia como desenvolvedor back-end.
