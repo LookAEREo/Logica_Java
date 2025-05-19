@@ -1,3 +1,5 @@
+//Pequeno programa em java para controle de estoque com orientação à objetos 
+
 package program;
 
 public class Estq {
